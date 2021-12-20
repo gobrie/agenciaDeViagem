@@ -1,0 +1,50 @@
+﻿@model AGV.Models.Usuario
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+
+
+    <div class="flex-container">
+    <div class="row justify-content-center">
+    <div class="col-md-5">
+    <h3>Faça seu cadastro</h3>
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="cpf" class="control-label"></label>
+                <input asp-for="cpf" class="form-control" />
+                <span asp-validation-for="cpf" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="nome" class="control-label"></label>
+                <input asp-for="nome" class="form-control" />
+                <span asp-validation-for="nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="email" class="control-label"></label>
+                <input asp-for="email" class="form-control" />
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="endereco" class="control-label"></label>
+                <input asp-for="endereco" class="form-control" />
+                <span asp-validation-for="endereco" class="text-danger"></span>
+            </div>
+            <div class="form-group text-center">
+                <input type="submit" value="Confirme" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+</div>
+
+<!--<div>
+    <a asp-action="Index">Back to List</a>
+</div>-->
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

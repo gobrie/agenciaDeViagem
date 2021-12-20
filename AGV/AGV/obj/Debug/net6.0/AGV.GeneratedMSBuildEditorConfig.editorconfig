@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AGV
+build_property.RootNamespace = AGV
+build_property.ProjectDir = D:\RECODE PRO\ATIVIDADE 1712\AGV\AGV\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\RECODE PRO\ATIVIDADE 1712\AGV\AGV
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Home/Contato.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Home/Promo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9tby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Pedidos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Pedidos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Pedidos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Pedidos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Pedidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Servicos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vydmljb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Servicos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vydmljb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Servicos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vydmljb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Servicos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vydmljb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Servicos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vydmljb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RECODE PRO/ATIVIDADE 1712/AGV/AGV/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ayvza7t8cu

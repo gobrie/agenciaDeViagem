@@ -1,0 +1,192 @@
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+* {
+    font-family: fantasy, sans-serif;
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    -webkit-transition: .2s linear;
+    transition: .2s linear;
+}
+
+html {
+  font-size: 14px;
+  
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+  
+}
+
+header {
+    font-family: fantasy;
+    font-size: x-large;
+
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #0495c9;
+    border-color: #00b3db;
+    font-size: large;
+}
+
+
+
+.nav-link {
+    color: black !important;
+}
+
+.nav-link:hover, .dropdown-item:hover {
+    background-color: #0495c9;
+    color: white !important;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #000000;
+    color: #0495c9;
+    padding: 0;
+}
+
+.home {
+    padding: 0;
+}
+
+.box {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-size: cover !important;
+    background-position: center !important;
+    justify-content: flex-end;
+    padding: 2rem 9%;
+}
+
+section {
+    padding: 3rem 9%;
+}
+
+.second {
+    justify-content: flex-end;
+   
+}
+
+.content {
+    font-size: 4rem;
+    color: black;
+    
+}
+
+.content2 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 6rem;
+    color: #0026ff;
+    padding-top: .5rem;
+    text-transform: uppercase;
+    box-shadow: 10px;
+}
+
+p {
+    line-height: 2;
+    color: black;
+    font-size: 1.5rem;
+    padding: 1rem 0;
+}
+
+.btn {
+    margin-top: 1rem;
+    display: inline-block;
+    border: border;
+    color: black;
+    cursor: pointer;
+    background: none;
+    font-size: 1.7rem;
+    padding: 1rem 3rem;
+}
+
+.text-danger {
+    font-family: fantasy, sans-serif;
+}
+
+/* FORMULARIO DE CONTATO*/
+
+.contact-form {
+    background: #fff;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    width: 70%;
+}
+
+    .contact-form .form-control {
+        border-radius: 1rem;
+    }
+
+.contact-image {
+    text-align: center;
+}
+
+    .contact-image img {
+        border-radius: 6rem;
+        width: 11%;
+        margin-top: -3%;
+        transform: rotate(29deg);
+    }
+
+.contact-form form {
+    padding: 14%;
+}
+
+    .contact-form form .row {
+        margin-bottom: -7%;
+    }
+
+.contact-form h3 {
+    margin-bottom: 8%;
+    margin-top: -10%;
+    text-align: center;
+    color: #0062cc;
+}
+
+.contact-form .btnContact {
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    padding: 1.5%;
+    background: #dc3545;
+    font-weight: 600;
+    color: #000;
+    cursor: pointer;
+}
+
+.btnContactSubmit {
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    color: black;
+    background-color: #0062cc;
+    border: none;
+    cursor: pointer;
+}
+
+

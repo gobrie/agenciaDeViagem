@@ -1,0 +1,57 @@
+﻿@model AGV.Models.Servico
+
+@{
+    ViewData["Title"] = "Faça Sua Viagem";
+}
+
+<div class="flex-container">
+<div class="row justify-content-center">
+    <div class="col-md-5">
+        <h3 class="justify-content-center">Agende sua viagem</h3>
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="cidade" class="control-label"></label>
+                <input asp-for="cidade" class="form-control" />
+                <span asp-validation-for="cidade" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="dataIda" class="control-label"></label>
+                <input asp-for="dataIda" class="form-control" />
+                <span asp-validation-for="dataIda" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="dataVolta" class="control-label"></label>
+                <input asp-for="dataVolta" class="form-control" />
+                <span asp-validation-for="dataVolta" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="qtdPassageiros" class="control-label"></label>
+                <input asp-for="qtdPassageiros" class="form-control" />
+                <span asp-validation-for="qtdPassageiros" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="preco" class="control-label"></label>
+                <input asp-for="preco" class="form-control" />
+                <span asp-validation-for="preco" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group text-center">
+                <input type="submit" value="AGENDE" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+</div>
+
+<!--<div>
+    <a asp-action="Index">Back to List</a>
+</div> -->
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
